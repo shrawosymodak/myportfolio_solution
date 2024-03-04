@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|c:\\users\\cr202\\desktop\\myportfolio_solution\\myportfolio\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\viewpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\viewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\viewpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\edit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40AC432-5B7E-42BC-841C-6A908E30A10A}|myportfolio\\myportfolio.csproj|solutionrelative:myportfolio\\add.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "myportfolio\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\WebForm1.aspx",
+              "RelativeToolTip": "myportfolio\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T04:04:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewpage.aspx",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx",
+              "RelativeDocumentMoniker": "myportfolio\\viewpage.aspx",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx",
+              "RelativeToolTip": "myportfolio\\viewpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T05:44:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "myportfolio\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\WebForm1.aspx.cs",
+              "RelativeToolTip": "myportfolio\\WebForm1.aspx.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:04:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginpage.aspx",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx",
+              "RelativeDocumentMoniker": "myportfolio\\loginpage.aspx",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx",
+              "RelativeToolTip": "myportfolio\\loginpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T05:42:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginpage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.cs",
+              "RelativeDocumentMoniker": "myportfolio\\loginpage.aspx.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.cs",
+              "RelativeToolTip": "myportfolio\\loginpage.aspx.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwCEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:02:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewpage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.cs",
+              "RelativeDocumentMoniker": "myportfolio\\viewpage.aspx.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.cs",
+              "RelativeToolTip": "myportfolio\\viewpage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:09:24.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.cs",
+              "RelativeDocumentMoniker": "myportfolio\\edit.aspx.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.cs",
+              "RelativeToolTip": "myportfolio\\edit.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:55:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "add.aspx",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx",
+              "RelativeDocumentMoniker": "myportfolio\\add.aspx",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx",
+              "RelativeToolTip": "myportfolio\\add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T05:42:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "edit.aspx",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx",
+              "RelativeDocumentMoniker": "myportfolio\\edit.aspx",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx",
+              "RelativeToolTip": "myportfolio\\edit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T05:43:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.cs",
+              "RelativeDocumentMoniker": "myportfolio\\add.aspx.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.cs",
+              "RelativeToolTip": "myportfolio\\add.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:46:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "edit.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.designer.cs",
+              "RelativeDocumentMoniker": "myportfolio\\edit.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\edit.aspx.designer.cs",
+              "RelativeToolTip": "myportfolio\\edit.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:58:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loginpage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "myportfolio\\loginpage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\loginpage.aspx.designer.cs",
+              "RelativeToolTip": "myportfolio\\loginpage.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:02:52.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewpage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "myportfolio\\viewpage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\viewpage.aspx.designer.cs",
+              "RelativeToolTip": "myportfolio\\viewpage.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:10:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "add.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.designer.cs",
+              "RelativeDocumentMoniker": "myportfolio\\add.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\cr202\\Desktop\\myportfolio_solution\\myportfolio\\add.aspx.designer.cs",
+              "RelativeToolTip": "myportfolio\\add.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:48:17.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
